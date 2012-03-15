@@ -169,6 +169,11 @@
     </dependency>
 
     <dependency>
+      <groupId>org.apache.accumulo</groupId>
+      <artifactId>accumulo-core</artifactId>
+    </dependency>
+
+    <dependency>
       <groupId>me.prettyprint</groupId>
       <artifactId>hector-core</artifactId>
     </dependency>
